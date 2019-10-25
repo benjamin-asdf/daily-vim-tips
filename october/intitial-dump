@@ -1,0 +1,38 @@
+vim tip of the day: zz to move the screen so the cursor is in the middle. I through that one out there just because I use it so damn often
+very often I do: Lzz
+or Hzz
+
+---------
+
+I am using now :vsplit a lot
+
+---------
+
+Sometimes I use % on bracket to see the scope :slightly_smiling_face:
+
+---------
+
+This reminds me of "folding". For me it is bound to z- most useful za to toggle fold. zc close fold, zo open. 
+
+---------
+
+Tip for today. :slightly_smiling_face: You can jump section (I use it for function definitions with [[ or ]])
+
+You can jump paragraphs with { and }
+And sentences with ( )
+
+---------
+
+Did you know that gi and gv resume the last insert or visual states? (I don't use those enough)
+
+---------
+---------
+---------
+---------
+---------
+---------
+---------
+
+
+
+
