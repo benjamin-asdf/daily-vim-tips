@@ -26,7 +26,14 @@ And sentences with ( )
 Did you know that gi and gv resume the last insert or visual states? (I don't use those enough)
 
 ---------
+
+If I would see for example this HTTPServer and I would like to have it like HttpServer
+I would got to first T and than holding shift and I would press ~ three times S-~ to change the capitalization to HttpServer
+
 ---------
+
+`dip` to delete white space
+
 ---------
 ---------
 ---------
